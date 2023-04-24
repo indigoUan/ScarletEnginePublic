@@ -2,8 +2,10 @@
 
 The public repository of Scarlet Engine.
 
-## Required Haxe libs
-### hxCodec
+# Compilation
+
+### Required Haxe libs
+#### hxCodec
 You can install hxCodec by running `haxelib install hxCodec` in your cmd.  
 
 ###### If you're looking for DLC files, go to [this page](https://google.com)
