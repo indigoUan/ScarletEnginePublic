@@ -2,10 +2,9 @@
 
 The public repository of Scarlet Engine.
 
-# Compilation
+# Compilation - Required libs
 
-### Required Haxe libs
-#### hxCodec
+### hxCodec
 You can install hxCodec by running `haxelib install hxCodec` in your cmd.  
 On Linux targets you need to install some other libs **as well**:  
 `sudo apt-get install libvlc-dev`  
