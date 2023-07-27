@@ -5,9 +5,9 @@ The public repository of Scarlet Engine.
 
 # Compilation - Required libraries
 
-## [hxvm-lua](https://github.com/kevinresol/hxvm-lua) (C++ and JavaScript targets)
-This library is for the Lua implementation of the engine.  
-You can install hxvm-lua by running `haxelib git hxvm-lua https://github.com/kevinresol/hxvm-lua.git` in your cmd.  
+## [plainenglish](https://github.com/indigouan/plainenglish) (all targets)
+This library is for the Plainenglish script implementation of the engine.  
+You can install plainenglish by running `haxelib git hxvm-lua https://github.com/indigouan/plainenglish.git` in your cmd.  
 
 ## [linc_discord_rpc](https://github.com/Aidan63/linc_discord-rpc) (C++ targets only)
 This library adds the Discord Rich Presence API to the engine.  
