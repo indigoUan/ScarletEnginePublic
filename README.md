@@ -5,11 +5,11 @@ The public repository of Scarlet Engine.
 
 # Compilation - Required libs
 
-## hxvm-lua (C++ and JavaScript targets)
+## [hxvm-lua](https://github.com/kevinresol/hxvm-lua) (C++ and JavaScript targets)
 This library is for the Lua implementation of the engine.  
 You can install hxvm-lua by running `haxelib git hxvm-lua https://github.com/kevinresol/hxvm-lua.git` in your cmd.  
 
-## hxCodec (C++ targets only)
+## [hxCodec](https://github.com/polybiusproxy/hxCodec) (C++ targets only)
 This library is for rendering videos.  
 You can install hxCodec by running `haxelib install hxCodec` in your cmd.  
 On Linux targets you need to install some other libs **as well**:  
