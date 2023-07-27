@@ -7,29 +7,27 @@ The public repository of Scarlet Engine.
 
 ## [plainenglish](https://github.com/indigouan/plainenglish) (all targets)
 This library is for the Plainenglish script implementation of the engine.  
-You can install plainenglish by running
+You can install plainenglish by running the following command.
 ```bash
 haxelib git plainenglish https://github.com/indigouan/plainenglish.git
 ```
-in your cmd.  
 
 ## [linc_discord_rpc](https://github.com/Aidan63/linc_discord-rpc) (C++ targets only)
 This library adds the Discord Rich Presence API to the engine.  
-You can install linc_discord_rpc by running
+You can install linc_discord_rpc by running the following command.
 ```bash
 haxelib git linc_discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
 ```
-in your cmd.  
 
 ## [hxCodec 2.6.1](https://github.com/polybiusproxy/hxCodec) (C++ targets only)
 This library is for rendering videos.  
 As of Scarlet Engine version 0.0.0.1, the version of hxCodec MUST be 2.6.1. Check the [log](https://github.com/indigoUan/ScarletEngineData/blob/main/compilation-requirements-log.md) for past versions.
-You can install hxCodec by running
+You can install hxCodec by running the following command.
 ```bash
 haxelib install hxCodec 2.6.1
 ```
-in your cmd.  
-On Linux targets you need to install some other libraries **as well**:  
+
+On Linux targets you need to install some other libraries ***as well***:  
 ```bash
 sudo apt-get install libvlc-dev
 sudo apt-get install libvlccore-dev
