@@ -3,6 +3,9 @@
 The public repository of Scarlet Engine.
 ###### If you're looking for DLC files, go to [this page](https://google.com)
 
+# Compilation
+###### A foolproof guide by îndigoUan
+
 # Compilation - Required libraries
 
 ## [plainenglish](https://github.com/indigouan/plainenglish) (all targets)
@@ -56,4 +59,3 @@ Open your CMD to the directory where the `project.xml` file is stored and run th
 
 ## Step four - Compilation errors:
 Ask whomever you want for help, just don't come bugging me, I really can't be bothered.
-                                                       ~îndigoUán
