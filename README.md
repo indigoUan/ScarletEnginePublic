@@ -13,9 +13,10 @@ You can install plainenglish by running `haxelib git hxvm-lua https://github.com
 This library adds the Discord Rich Presence API to the engine.  
 You can install linc_discord_rpc by running `haxelib git linc_discord_rpc https://github.com/Aidan63/linc_discord-rpc.git` in your cmd.  
 
-## [hxCodec](https://github.com/polybiusproxy/hxCodec) (C++ targets only)
+## [hxCodec 2.6.1](https://github.com/polybiusproxy/hxCodec) (C++ targets only)
 This library is for rendering videos.  
-You can install hxCodec by running `haxelib install hxCodec` in your cmd.  
+As of Scarlet Engine version 0.0.0.1, the version of hxCodec MUST be 2.6.1.
+You can install hxCodec by running `haxelib install hxCodec 2.6.1` in your cmd.  
 On Linux targets you need to install some other libraries **as well**:  
 `sudo apt-get install libvlc-dev`  
 `sudo apt-get install libvlccore-dev`  
