@@ -5,7 +5,7 @@ The public repository of Scarlet Engine.
 
 # Compilation
 ###### A foolproof guide by îndigoUán, AKA the author of the project, AKA the coolest person to set foot on the planet.
-Please, use the built-in modding system instead of publishing a new executable every mod.
+### Please, use the built-in modding system instead of publishing a new executable every mod.
 
 # Compilation - Required libraries
 
