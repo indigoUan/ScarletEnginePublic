@@ -16,11 +16,11 @@ You can install plainenglish by running the following command.
 haxelib git plainenglish https://github.com/indigouan/plainenglish.git
 ```
 
-## [linc_discord_rpc](https://github.com/Aidan63/linc_discord-rpc) (C++ targets only)
+## [discord_rpc](https://github.com/Aidan63/linc_discord-rpc) (C++ targets only)
 This library adds the Discord Rich Presence API to the engine.  
-You can install linc_discord_rpc by running the following command.
+You can install discord_rpc by running the following command.
 ```bash
-haxelib git linc_discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
+haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
 ```
 
 ## [hxCodec 3.0.2](https://github.com/polybiusproxy/hxCodec) (C++ targets only)
