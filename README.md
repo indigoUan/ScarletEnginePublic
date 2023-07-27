@@ -23,9 +23,9 @@ You can install linc_discord_rpc by running the following command.
 haxelib git linc_discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
 ```
 
-## [hxCodec 2.6.1](https://github.com/polybiusproxy/hxCodec) (C++ targets only)
+## [hxCodec 3.0.2](https://github.com/polybiusproxy/hxCodec) (C++ targets only)
 This library is for rendering videos.  
-As of Scarlet Engine version 0.0.0.1, the version of hxCodec MUST be 2.6.1. Check the [log](https://github.com/indigoUan/ScarletEngineData/blob/main/compilation-requirements-log.md) for past engine versions.  
+As of Scarlet Engine version 0.0.0.1, the version of hxCodec MUST be 3.0.2, as it loves to change radically across versions. Check the [log](https://github.com/indigoUan/ScarletEngineData/blob/main/compilation-requirements-log.md) for past engine versions.  
 You can install hxCodec by running the following command.
 ```bash
 haxelib install hxCodec 2.6.1
