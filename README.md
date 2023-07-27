@@ -54,7 +54,7 @@ Make sure that all the [libraries](https://github.com/indigoUan/ScarletEnginePub
 
 ## Step three - Compiling:
 Once you have a clone or copy of the source code, make sure that the file `project.xml` is in the root of the project.  
-Open your CMD to the directory where the `project.xml` file is stored and run the command `lime test windows` if you're on Windows, or `lime test linux` if you're on any Linux sytem.  
+Open your CMD to the directory where the `project.xml` file is stored and run the command `lime test windows` if you're on Windows, or `lime test linux` if you're on any Linux system.  
 
 ## Step four - Compilation errors:
 Ahah good luck.
