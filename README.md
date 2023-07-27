@@ -7,7 +7,7 @@ The public repository of Scarlet Engine.
 
 ## [plainenglish](https://github.com/indigouan/plainenglish) (all targets)
 This library is for the Plainenglish script implementation of the engine.  
-You can install plainenglish by running `haxelib git hxvm-lua https://github.com/indigouan/plainenglish.git` in your cmd.  
+You can install plainenglish by running `haxelib git plainenglish https://github.com/indigouan/plainenglish.git` in your cmd.  
 
 ## [linc_discord_rpc](https://github.com/Aidan63/linc_discord-rpc) (C++ targets only)
 This library adds the Discord Rich Presence API to the engine.  
@@ -39,3 +39,8 @@ Please follow [the official HaxeFlixel guide to installation](https://haxeflixel
 Make sure that all the [libraries](https://github.com/indigoUan/ScarletEnginePublic/blob/main/README.md#compilation---required-libraries) are installed.
 
 ## Step three - Compiling:
+Once you have a clone or copy of the source code, make sure that the file `project.xml` is in the root of the project.  
+Open your CMD to the directory where the `project.xml` file is stored and run the command `lime test windows` if you're on Windows, or `lime test linux` if you're on any Linux sytem.  
+
+## Step four - Compilation errors:
+Ahah good luck.
