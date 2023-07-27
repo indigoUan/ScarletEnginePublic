@@ -1,10 +1,10 @@
 # Scarlet Engine (public repo)
 
 The public repository of Scarlet Engine.
-###### If you're looking for DLC files, go to [this page](https://google.com)
+###### If you're looking for DLC files, go to [this page](google.com) (placeholder).
 
 # Compilation
-###### A foolproof guide by îndigoUan
+###### A foolproof guide by îndigoUán, AKA the author of the project, AKA the coolest person to set foot on the planet.
 
 # Compilation - Required libraries
 
@@ -58,4 +58,8 @@ Once you have a clone or copy of the source code, make sure that the file `proje
 Open your CMD to the directory where the `project.xml` file is stored and run the command `lime test windows` if you're on Windows, or `lime test linux` if you're on any Linux system.  
 
 ## Step four - Compilation errors:
-Ask whomever you want for help, just don't come bugging me, I really can't be bothered.
+Time and patience are money and I am broke, you can ask in the (to be) [public Scarlet Engine Discord server](google.com) (placeholder) for help.  
+
+# Compilation - Debugging crashes:
+When the engine crashes at runtime (AKA when the game is running) it automatically stores the crashlog (uncaught exception) in the `crashlogs/` directory of the executable file (`export/release/windows|linux/bin/`).  
+If you need help with an uncaught exception you can't figure out, I resuggest asking in the (to be) [public Scarlet Engine Discord server](google.com) (placeholder), and NOT asking me.  
