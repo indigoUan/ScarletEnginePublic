@@ -36,6 +36,6 @@ To check if you succeeded, launch your CMD and try the command `haxe`.
 Please follow [the official HaxeFlixel guide to installation](https://haxeflixel.com/documentation/install-haxeflixel/).
 
 ## Step two - Libraries:
-Make sure that all the [libraries](rule34.xxx) are installed.
+Make sure that all the [libraries](https://github.com/indigoUan/ScarletEnginePublic/blob/main/README.md#compilation---required-libraries) are installed.
 
 ## Step three - Compiling:
