@@ -55,4 +55,5 @@ Once you have a clone or copy of the source code, make sure that the file `proje
 Open your CMD to the directory where the `project.xml` file is stored and run the command `lime test windows` if you're on Windows, or `lime test linux` if you're on any Linux system.  
 
 ## Step four - Compilation errors:
-Ask whomever you want for help, just don't come bugging me.
+Ask whomever you want for help, just don't come bugging me, I really can't be bothered.
+                                                       ~îndigoUán
