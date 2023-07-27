@@ -41,7 +41,7 @@ As of version 0.0.0.1 of the engine, only Windows and Linux are compatible. Chec
 
 ## Step one - installing Haxe, HaxeFlixel, and OpenFl:
 ### Haxe:  
-Head to [Haxe's official downlod website](https://haxe.org/download) and select the installer version compatible with your computer. If you're unsure if you're using 32 bit or 64 bit, look it up.  
+Head to [Haxe's official download website](https://haxe.org/download) and select the installer version compatible with your computer. If you're unsure if you're using 32 bit or 64 bit, look it up.  
 After downloading the installer, launch it and follow the instructions.  
 To check if you succeeded, launch your CMD and try the command `haxe`.  
 ### HaxeFlixel and OpenFl:
