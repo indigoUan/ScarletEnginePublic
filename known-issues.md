@@ -1,0 +1,3 @@
+## 0.0.0.1
+* Videos don't work.
+* BPM event changes don't work.
