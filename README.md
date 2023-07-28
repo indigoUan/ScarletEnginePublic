@@ -2,6 +2,7 @@
 
 The public repository of Scarlet Engine.
 ###### If you're looking for DLC files, go to [this page](google.com) (placeholder).
+### Check out the known issues [at this page]([https://google.com](https://github.com/indigoUan/ScarletEnginePublic/blob/main/known-issues.md)).
 
 # Compilation
 ###### A foolproof guide by îndigoUán, AKA the author of the project, AKA the coolest person to set foot on the planet.
@@ -25,7 +26,7 @@ haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
 
 ## [hxCodec 3.0.2](https://github.com/polybiusproxy/hxCodec) (C++ targets only)
 This library is for rendering videos.  
-As of Scarlet Engine version 0.0.0.1, the version of hxCodec MUST be 3.0.2, as it loves to change radically across versions. Check the [log](https://github.com/indigoUan/ScarletEngineData/blob/main/compilation-requirements-log.md) for past engine versions.  
+As of Scarlet Engine version 0.0.0.1, the version of hxCodec MUST be 3.0.2, as it loves to change radically across versions. Check the [log](https://github.com/indigoUan/ScarletEnginePublic/blob/main/compilation-requirements-log.md) for past engine versions.  
 You can install hxCodec by running the following command.
 ```bash
 haxelib install hxCodec 3.0.2
@@ -41,7 +42,7 @@ sudo apt-get install vlc-bin
 # Compilation - Compiling the source code
 
 After downloading as .zip or cloning this repository, you might want to compile the project.  
-As of version 0.0.0.1 of the engine, only Windows and Linux are compatible. Check the [log](https://github.com/indigoUan/ScarletEngineData/blob/main/compilation-requirements-log.md) for past engine versions.  
+As of version 0.0.0.1 of the engine, only Windows and Linux are compatible. Check the [log](https://github.com/indigoUan/ScarletEnginePublic/blob/main/compilation-requirements-log.md) for past engine versions.  
 
 ## Step one - installing Haxe, HaxeFlixel, and OpenFl:
 ### Haxe:  
