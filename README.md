@@ -2,7 +2,7 @@
 
 The public repository of Scarlet Engine.
 ###### If you're looking for DLC files, go to [this page](google.com) (placeholder).
-### Check out the known issues [at this page]([https://google.com](https://github.com/indigoUan/ScarletEnginePublic/blob/main/known-issues.md)).
+### Check out the known issues [at this page](https://github.com/indigoUan/ScarletEnginePublic/blob/main/known-issues.md).
 
 # Compilation
 ###### A foolproof guide by îndigoUán, AKA the author of the project, AKA the coolest person to set foot on the planet.
