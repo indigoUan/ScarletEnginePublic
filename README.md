@@ -62,5 +62,5 @@ Open your CMD to the directory where the `project.xml` file is stored and run th
 Time and patience are money and I am broke, you can ask in the (to be) [public Scarlet Engine Discord server](google.com) (placeholder) for help.  
 
 # Compilation - Debugging crashes:
-When the engine crashes at runtime (AKA when the game is running) it automatically stores the crashlog (uncaught exception) in the `crashlogs/` directory of the executable file (`export/release/windows|linux/bin/`).  
+When the engine crashes at runtime (AKA when the game is running) WHEN IT WANTS TO it USUALLY (when it wants to) automatically stores the crashlog (uncaught exception) in the `crashlogs/` directory of the executable file (`export/release/windows|linux/bin/`).  
 If you need help with an uncaught exception you can't figure out, I resuggest asking in the (to be) [public Scarlet Engine Discord server](google.com) (placeholder), and NOT asking me.  
