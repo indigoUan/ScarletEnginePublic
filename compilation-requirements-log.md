@@ -1,5 +1,5 @@
 ## 0.0.0.1
-### Operative Systems
+### Operating Systems
 Only Windows and Linux are compatible
 
 ### Libraries
