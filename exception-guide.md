@@ -8,11 +8,11 @@ This occurs when the file in (path) is either being used and cannot be overwritt
 Similar to `file_content`. The body of the exception tells you what's wrong.
 
 ## Null Object Reference
-The last line of the "Calls" list tries to use a `null` object.  
+The last line of the "Stack" list tries to use a `null` object.  
 It might be trying to use the object before it's initialized, or the object is simply `null` for whatever reason.
 
 ## Null Function Reference
-The last line of the "Calls" list tries to use a null function. See the [Null Object Reference](https://github.com/indigoUan/ScarletEnginePublic/blob/main/exception-guide.md#null-object-reference) entry.
+The last line of the "Stack" list tries to use a null function. See the [Null Object Reference](https://github.com/indigoUan/ScarletEnginePublic/blob/main/exception-guide.md#null-object-reference) entry.
 
 ## Chart Reading Error: OutsideBounds
 There are two possible causes:  
