@@ -14,5 +14,5 @@ It might be trying to use the object before it's initialized, or the object is s
 ## Null Function Reference
 The last line of the "Calls" list tries to use a null function. See the [Null Object Reference](https://github.com/indigoUan/ScarletEnginePublic/blob/main/exception-guide.md#null-object-reference) entry.
 
-## Chart reading error: OutsideBounds
+## Chart Reading Error: OutsideBounds
 There's no fixing this (sorry!). Discard the chart file.
