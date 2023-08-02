@@ -1,7 +1,7 @@
 # Scarlet Engine Exception Guide
 This file contains some exceptions you might meet.
 
-## [file_content,(path)]
+## [file_contents,(path)]
 This occurs when the file in (path) is either being used and cannot be overwritten, or id doesn't exist and cannot be opened.
 
 ## [lime.utils.Assets]
